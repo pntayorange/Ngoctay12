@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Pham Ngoc Tay, 2005.
 - 👀 I’m interested in Traveling, Coding and Business.
-- 🌱 I’m currently learning to becoming a programing.
-- 💞️ I’m looking to collaborate on Competitive Programming and Game Design.
 - 📫 How to reach me phamngoctaydl@gmail.com
-- 😄 Pronouns: Alu.
-- ⚡ Fun fact: Explore!
+- 😄 You can call me Orange.
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pntayorange&show_icons=true&theme=vision-friendly-dark">
